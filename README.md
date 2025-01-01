@@ -10,7 +10,7 @@ This repository contains the implementation of a data clustering project using t
 
 ## Files
 
-- `Cherkaoui_Mazzucotelli_19_23.ipynb`: The Jupyter Notebook containing the implementation and analysis.
+- `clustering_CEM_gaussian_mixture_model.ipynb`: The Jupyter Notebook containing the implementation and analysis.
 
 ## How to Run
 

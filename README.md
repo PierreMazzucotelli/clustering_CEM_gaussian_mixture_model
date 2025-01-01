@@ -1,10 +1,6 @@
-# clustering_CEM_gaussian_mixture_model
-Implemented the Classification Expectation-Maximization (CEM) algorithm to segment data into meaningful clusters. Leveraged probabilistic modeling and Python programming to develop, evaluate, and visualize the model’s performance.
-
-
 # Data Clustering with a Gaussian Mixture Model
 
-This repository contains the implementation of a data clustering project using the Classification Expectation-Maximization (CEM) algorithm, based on Gaussian Mixture Models.
+This repository contains the implementation of a data clustering project using the Classification Expectation-Maximization (CEM) algorithm to segment data into meaningful clusters. Leveraged probabilistic modeling and Python programming to develop, evaluate, and visualize the model’s performance.
 
 ## Project Overview
 
